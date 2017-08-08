@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <drawable name="list_normal">#b0b2b1</drawable>
+    <drawable name="list_selected">#000000</drawable>
+    <color name="colorBottomBar">#DD000000</color>
+    <color name="colorBlack">#DD000000</color>
+    <color name="colorRed">#ff001f</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGreen">#7ed321</color>
+    <color name="colorBlue">#00a0fc</color>
+    <color name="colorDarkSkyBlue">#2bb9e4</color>
+    <color name="selectedEmail">#2A2E3E</color>
+    <color name="colorBlackTint">#44000000</color>
+
+    <drawable name="colorBackground">#efecec</drawable>
+</resources>
